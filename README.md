@@ -1,6 +1,7 @@
 # VoluViz
  
 ## Description
+Visualization of volumetric data implemented in Unity that allows Direct Volume Rendering in real-time. The application provides various illustrative techniques for data visualization and allows users to switch between the techniques and change parameters.
 
 ## Authors
 | Name          | Email           |
@@ -20,7 +21,7 @@
 <img src="/Examples/directVol.png" with="400" height="400">
 
 ### Maximum Intensity Projection (X-ray)
-<img src="/Examples/multipleImportanceSampling.png" with="400" height="400">
+<img src="/Examples/rentgen.png" with="400" height="400">
 
 ### View-distance-based Importance
 <img src="/Examples/viewDistBased.png" with="400" height="400">
