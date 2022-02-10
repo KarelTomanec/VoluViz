@@ -1,4 +1,4 @@
-# VoluViz
+# Volumetric Visualization
  
 ## Description
 Visualization of volumetric data implemented in Unity that allows Direct Volume Rendering in real-time. The application provides various illustrative techniques for data visualization and allows users to switch between the techniques and change parameters.
